@@ -561,6 +561,8 @@ under the License.
               </locales>
             </configuration>
           </plugin>
+ 	<!--<plugin>-->
+        <!--</plugin>-->
         </plugins>
       </reporting>
     </profile>
